@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 | `2026-10-26` |
+| **3** | 3 | 0 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [896. Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | 🟢 Easy | `General` | `2026-10-26` |
 | 0002 | [953. Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | 🟢 Easy | `General` | `2026-10-26` |
+| 0003 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | 🟢 Easy | `General` | `2026-10-26` |
 
 ---
 
